@@ -1,0 +1,6 @@
+D:\mphasis Simplilearn\Phase3\Projects\joemvc\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\mphasis Simplilearn\Phase3\Projects\joemvc\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\mphasis Simplilearn\Phase3\Projects\joemvc\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\Phase3\Projects\joemvc\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Phase3\Projects\joemvc\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\mphasis Simplilearn\Phase3\Projects\joemvc\ClassLibrary\obj\Debug\ClassLibrary.pdb
